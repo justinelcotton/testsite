@@ -1,1 +1,1 @@
-# Library WEllness Toolkit
+# Library Wellness Toolkit
